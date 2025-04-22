@@ -1,5 +1,5 @@
 # Audio_fusion
-Project description can be found in report. 
+Implementation of the transfusion (https://arxiv.org/html/2408.11039v1) based approach, but applied on audios and flow-matching is used instead of regular diffusion. 
 
 
 ## Training setup: 
